@@ -1,4 +1,4 @@
-# Hi, I'm Dylan Curran 👋
+# Hello, I'm Dylan 👋
 
 I use GitHub primarily as a place to **publish finished projects** rather than for day-to-day version control.  
 I do most of my coding locally, and I push here when a project reaches its final, presentable state.
