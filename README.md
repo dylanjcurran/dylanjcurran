@@ -3,7 +3,7 @@
 I use GitHub primarily as a place to **publish finished projects** rather than for day-to-day version control. I do most of my coding locally, and I push here when a project reaches its final, presentable state.
 
 ## Featured Projects
-- **ML-for-Formula-1** - Ongoing Project (more to come)!
+- **ML-for-Formula-1** - Machine learning models predicting liklihood of F1 Podium Finishes
 - **ML-for-Big-Pharma-Stock** – Machine learning models predicting stock performance at large pharmaceutical companies.
 - **IRobot-Create3-Navigation** – Navigation algorithms for a maze-solving robot.
 
